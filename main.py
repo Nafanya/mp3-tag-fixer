@@ -172,10 +172,3 @@ if __name__ == "__main__":
         fixer.fixFile(path)
     else:
         fixer.fixDir(path)
-
-    #fixer.fixFile("/home/nafanya/Music/lana.mp3")
-    #fixer.fixDir("/home/nafanya/Music/test")
-    #fixer.fixFile("/home/nafanya/programming/python/tagfixer.mp3")
-    #fixer.fixFile("/home/nafanya/Music/Epic/Two steps from hell - To glory.mp3") #no image
-    #fixer.fixFile(u"/home/nafanya/Music/test/Inna - Deja Vu.mp3")
-
